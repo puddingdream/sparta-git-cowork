@@ -1,6 +1,6 @@
 {
   "id": "member4",
-  "name": "최풀스택",
+  "name": "임하은",
   "subName": "풀스택 개발자",
   "profileImage": "image/profile_image.png",
   "introduction": {
@@ -9,15 +9,15 @@
   },
   "info": {
     "description": "React와 Node.js를 활용하여 풀스택 개발을 하고 있습니다.",
-    "birthday": "1996.05.12",
-    "location": "서울시 송파구",
-    "email": "member4@example.com",
-    "phone": "010-4444-4444"
+    "birthday": "2002.10.28",
+    "location": "전주시 덕진구",
+    "email": "limhaeun1028@naver.com",
+    "phone": "010-8888-2222"
   },
   "strengths": [
-    "통찰력",
+    "집중력",
     "실행력",
-    "팀워크"
+    "협동력"
   ],
   "skills": [
     { "name": "HTML", "progress": 85 },
@@ -33,14 +33,14 @@
   "education": [
     {
       "name": "스파르타 고등학교",
-      "period": "2012.03.02 ~ 2015.02.14",
-      "location": "서울시 송파구"
+      "period": "2018.03.02 ~ 2021.02.14",
+      "location": "전주시 덕진구"
     },
     {
       "name": "스파르타 대학교",
       "period": "2015.03.02 ~ 2019.02.20",
       "gpa": "3.9",
-      "location": "서울시 송파구"
+      "location": "충남 당진시"
     }
   ],
   "experience": [
