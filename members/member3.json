@@ -1,6 +1,6 @@
 {
   "id": "member3",
-  "name": "박디자인",
+  "name": "황도윤",
   "subName": "UI/UX 디자이너",
   "profileImage": "image/profile_image.png",
   "introduction": {
@@ -9,9 +9,9 @@
   },
   "info": {
     "description": "Figma와 Adobe XD를 활용하여 UI/UX 디자인을 하고 있습니다.",
-    "birthday": "1999.11.08",
-    "location": "서울시 마포구",
-    "email": "member3@example.com",
+    "birthday": "1996.03.08",
+    "location": "인천광역시 중구",
+    "email": "edcrfv098@naver.com",
     "phone": "010-3333-3333"
   },
   "strengths": [
@@ -31,9 +31,9 @@
   ],
   "education": [
     {
-      "name": "스파르타 고등학교",
-      "period": "2015.03.02 ~ 2018.02.14",
-      "location": "서울시 마포구"
+      "name": "성동고등학교",
+      "period": "2013.03.02 ~ 2015.02.14",
+      "location": "서울시 성동구"
     },
     {
       "name": "스파르타 대학교",
